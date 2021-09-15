@@ -1,10 +1,10 @@
 class config:
     BOT_TOKEN = "1523270714:AAGkpx0h8UCikmDRoM2w7Ku3CWJs6KI1GoY"
-    APP_ID = ""
-    API_HASH = ""
+    APP_ID = "2012939"
+    API_HASH = "6fc85a4aaa227723dcb1297b2f22e9cd"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = " 1430262665" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/gbotclone"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
